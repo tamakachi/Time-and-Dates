@@ -30,3 +30,5 @@ console.log('timestamp', now.getTime())
 console.log(now.toDateString())
 console.log(now.toTimeString())
 console.log(now.toLocaleString())
+
+// For comparing dates and so on, see Working With Timestamps
