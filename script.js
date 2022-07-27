@@ -20,3 +20,13 @@ console.log('getMonth', now.getMonth())
 // Problematic function, returns value of day of the week as number-1
 
 console.log('getDay:',now.getDay())
+
+
+// Timestamps
+
+console.log('timestamp', now.getTime())
+
+// Date Strings
+console.log(now.toDateString())
+console.log(now.toTimeString())
+console.log(now.toLocaleString())
